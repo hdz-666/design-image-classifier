@@ -1,0 +1,6 @@
+[
+  { "id": "laminate", "name": "Laminate", "color": "#8B5E3C" },
+  { "id": "louver", "name": "Louver", "color": "#4A7A8C" },
+  { "id": "acrylic", "name": "Acrylic", "color": "#5B8C51" },
+  { "id": "asa", "name": "ASA", "color": "#8C5B8C" }
+]
