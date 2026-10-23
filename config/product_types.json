@@ -2,5 +2,11 @@
   { "id": "laminate", "name": "Laminate", "color": "#8B5E3C" },
   { "id": "louver", "name": "Louver", "color": "#4A7A8C" },
   { "id": "acrylic", "name": "Acrylic", "color": "#5B8C51" },
-  { "id": "asa", "name": "ASA", "color": "#8C5B8C" }
+  { "id": "asa", "name": "ASA", "color": "#8C5B8C" },
+  { "id": "charcoal", "name": "Charcoal", "color": "#f00404" },
+  { "id": "soffit", "name": "Soffit", "color": "#666666"},
+  { "id": "decorative", "name": "Decorative", "color": "#0fff0f" },
+  { "id": "veneer", "name": "Veneer", "color": "#0f0fff" },
+  { "id": "pvc", "name": "PVC", "color": "#286452" },
+  { "id": "petg", "name": "PETG", "color": "#286452" }  
 ]
